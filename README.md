@@ -18,12 +18,8 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 **1. Retail Sales and Profitability Analysis**
 An end-to-end analysis of retail sales performance, profitability, customer segments and regional trends using Excel and Power BI.
 
-**2. Agricultural Data Analysis**
-Exploring agricultural data to uncover insights into crop production, environmental conditions and yield performance.
+LinkedIn: www.linkedin.com/in/deborahalomaja
 
-### Contact
-LinkedIn: [Insert LinkedIn URL]
+Email: alomaja.deborah@gmail.com
 
-Email: [Insert professional email]
-
-Thank you for visiting my portfolio!www.linkedin.com/in/deborahalomaja
+Thank you for visiting my portfolio!
